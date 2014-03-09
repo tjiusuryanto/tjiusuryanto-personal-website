@@ -1,0 +1,50 @@
+{
+   "name": "~",
+   "type": "dir",
+   "contents": [
+      {
+         "name": "about_me.txt",
+         "type": "text",
+         "contents": "My name is Tjiu. I'm a software engineer and also an entrepreneur.\nI co-founded <a href=\"http://bornevia.com\" class=\"exec\" target=\"_blank\">Bornevia</a>, a simple customer support and helpdesk solution\nfor online businesses.\n\nYou can find my picture and links to my profile and works on this page.\n\n"
+      },
+      {
+         "name": "me.jpg",
+         "type": "img",
+         "contents": "/images/me.jpg",
+         "caption": "What a handsome fellow."
+      },
+      {
+         "name": "links",
+         "type": "dir",
+         "contents": [
+         		{
+               "name": "GitHub",
+               "type": "exec",
+               "contents": "https://github.com/tjiusuryanto",
+               "description": "Find out about my projects"
+            },
+            {
+               "name": "LinkedIn",
+               "type": "exec",
+               "contents": "http://id.linkedin.com/pub/tjiu-suryanto/35/485/951"
+            },
+            {
+               "name": "Bornevia",
+               "type": "exec",
+               "contents": "http://bornevia.com",
+               "description": "Link to my startup company"
+            },
+            {
+               "name": "Facebook",
+               "type": "exec",
+               "contents": "https://www.facebook.com/tjiu.suryanto"
+            },
+            {
+               "name": "Twitter",
+               "type": "exec",
+               "contents": "https://twitter.com/tjiusuryanto"
+            }
+         ]
+      }
+   ]
+}
