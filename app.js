@@ -3,7 +3,6 @@
 var express = require('express');
 var fs      = require('fs');
 var routes = require('./routes');
-var http = require('http');
 var path = require('path');
 
 

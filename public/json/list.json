@@ -35,6 +35,11 @@
                "description": "Link to my startup company"
             },
             {
+               "name": "Blog",
+               "type": "exec",
+               "contents": "https://twitter.com/tjiusuryanto"
+            },
+            {
                "name": "Facebook",
                "type": "exec",
                "contents": "https://www.facebook.com/tjiu.suryanto"
