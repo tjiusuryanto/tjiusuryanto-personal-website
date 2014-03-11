@@ -492,7 +492,7 @@
           .enqueue('cat about_me.txt')
           .enqueue('help')
           .enqueue('ls -l')
-          .enqueue('ls -l links')
+          .enqueue('ls -l ~/links')
           .enqueue('tree')
           .begin();
    });
