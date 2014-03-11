@@ -37,7 +37,7 @@
             {
                "name": "Blog",
                "type": "exec",
-               "contents": "https://tjiusuryanto.com/blog",
+               "contents": "http://tjiusuryanto.com/blog",
                "description": "Find out some neat programming tricks come directly from my experiences"
             },
             {
