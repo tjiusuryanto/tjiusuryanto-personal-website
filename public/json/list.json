@@ -21,7 +21,7 @@
                "name": "GitHub",
                "type": "exec",
                "contents": "https://github.com/tjiusuryanto",
-               "description": "Find out about my projects"
+               "description": "Get the source code of this website"
             },
             {
                "name": "LinkedIn",

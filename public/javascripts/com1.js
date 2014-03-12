@@ -203,7 +203,7 @@ COMMANDS.help = function(argv, cb) {
        'can be viewed using "cat". <span class="img">Images</span> are ' +
        'displayed using "gimp".<br><br>If there is a command you want to get ' +
        'out of, press Ctrl+C or Ctrl+D.<br><br>');
-   this._terminal.write('Commands are:<br>');
+   this._terminal.write('Available commands are:<br>');
    for (var c in this._terminal.commands) {
       if (this._terminal.commands.hasOwnProperty(c) && !c.startswith('_'))
          this._terminal.write(c + '  ');

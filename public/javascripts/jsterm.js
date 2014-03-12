@@ -488,12 +488,11 @@
    term.init(CONFIG, '/json/list.json', COMMANDS, function() {
       term.enqueue('login')
           .enqueue('guest')
-          .enqueue('******')
+          .enqueue('********')
           .enqueue('cat about_me.txt')
-          .enqueue('help')
           .enqueue('ls -l')
-          .enqueue('ls -l ~/links')
           .enqueue('tree')
+          .enqueue('help')
           .begin();
    });
 
